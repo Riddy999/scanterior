@@ -1,110 +1,78 @@
 <template>
   <div class="page">
     <div class="about text-white">
-      <h3>Erklärung zur Informationspflicht</h3>
-      <p class="headline"><strong>Datenschutzerklärung</strong></p>
+      <h3 class="pt-3">Impressum</h3>
 
-    <p>
-      In folgender Datenschutzerklärung informieren wir Sie über die wichtigsten Aspekte der
-      Datenverarbeitung im Rahmen unserer Webseite. Wir erheben und verarbeiten personenbezogene
-      Daten nur auf Grundlage der gesetzlichen Bestimmungen (Datenschutzgrundverordnung,
-      Telekommunikationsgesetz 2003).
-    </p>
+      <p>
+        Angaben gemäß § 5 ECG, § 25 Mediengesetz und § 14 UGB
+      </p>
 
-    <p>
-      Sobald Sie als Benutzer auf unsere Webseite zugreifen oder diese besuchen, wird Ihre
-      IP-Adresse, Beginn sowie Beginn und Ende der Sitzung erfasst. Dies ist technisch bedingt und
-      stellt somit ein berechtigtes Interesse iSv Art 6 Abs 1 lit f DSGVO dar.
-    </p>
+      <p>
+        <strong>Scanterior GmbH</strong><br />
+        Karlsplatz 13, Stiege 4, Tür 8<br />
+        1040 Wien<br />
+        Österreich
+      </p>
 
-    <h5>Kontakt mit uns</h5>
-    <p>
-      Wenn Sie uns, entweder über unser Kontaktformular auf unserer Webseite oder per E-Mail
-      kontaktieren, dann werden die von Ihnen an uns übermittelten Daten zwecks Bearbeitung Ihrer
-      Anfrage oder für den Fall von weiteren Anschlussfragen für sechs Monate bei uns gespeichert.
-      Es erfolgt ohne Ihre Einwilligung keine Weitergabe Ihrer übermittelten Daten.
-    </p>
+      <p>
+        <strong>Telefon:</strong> +43 664 123 456<br />
+        <strong>E-Mail:</strong> felixe@scanterior.at<br />
+        <strong>Website:</strong> <a href="https://riddy999.github.io/scanterior/">www.scanterior.at</a>
+      </p>
 
-    <h5>Datenspeicherung</h5>
-    <p>
-      Im Rahmen der Erleichterung des Einkaufsvorganges und zur späteren Vertragsabwicklung werden
-      vom Webshop-Betreiber im Rahmen von Cookies die IP-Adresse des Anschlussinhabers gespeichert,
-      ebenso wie Name, Zahlungsinformationen, Kreditkarten.
-    </p>
+      <h5>Unternehmensgegenstand</h5>
+      <p>
+        Scanterior entwickelt Desktop-Software zur Erfassung von Innenräumen und Gebäudefassaden
+        mittels Fotoaufnahmen. Die Anwendung wandelt eine Serie von Bildern in hochauflösende
+        3D-Scans um, die in gängigen Formaten (z. B. OBJ, PLY, IFC) exportiert und in CAD-Programmen
+        weiterverarbeitet werden können. Die Software ist für leistungsfähige PCs und Laptops
+        optimiert und unterstützt die Anbindung externer Kameras für mobile Scanvorgänge.
+      </p>
 
-    <p>
-      Für die Vertragsabwicklung werden auch folgende Daten bei uns gespeichert:
-      Name, E-Mail, Telefonnummer.
-    </p>
+      <p>
+        <strong>Firmenbuchnummer:</strong> 55822w<br />
+        <strong>Firmenbuchgericht:</strong> Handelsgericht Wien
+      </p>
 
-    <p>
-      Die von Ihnen bereitgestellten Daten sind für die Vertragserfüllung und zur Durchführung
-      vorvertraglicher Maßnahmen erforderlich. Ein Vertragsabschluss ohne diese Daten ist nicht
-      möglich. Eine Übermittlung der erhobenen Daten an Dritte erfolgt nicht, mit Ausnahme der
-      Übermittlung von Zahlungsdaten (Kreditkartendaten) an die abwickelnden
-      Bankinstitute/Zahlungsdienstleister zum Zwecke der Abbuchung des Einkaufspreises, an das von
-      uns beauftragte Versandunternehmen (Transportunternehmen), welches mit der Zustellung der Ware
-      beauftragt ist, und unseren Steuerberater zur Erfüllung unserer steuerrechtlichen
-      Verpflichtungen.
-    </p>
+      <p>
+        <strong>UID-Nummer:</strong> ATU14712303
+      </p>
 
-    <p>
-      Sollten Sie den Einkaufsvorgang abbrechen, werden diese bei uns gespeicherten Daten gelöscht.
-      Sollte ein Vertragsabschluss zustande kommen, werden sämtliche Daten, resultierend aus dem
-      Vertragsverhältnis, bis zum Ablauf der steuerrechtlichen Aufbewahrungsfrist (7 Jahre)
-      gespeichert. Der übermittelte Name, die Anschrift, gekaufte Waren und Kaufdatum werden darüber
-      hinaus bis zum Ablauf der Produkthaftung (10 Jahre) gespeichert. Die Datenverarbeitung erfolgt
-      auf Basis der gesetzlichen Bestimmungen des § 96 Abs 3 TKG sowie des Art 6 Abs 1 lit a
-      (Einwilligung) und/oder lit b (notwendig zur Vertragserfüllung) der DSGVO.
-    </p>
+      <p>
+        <strong>Geschäftsführer:</strong><br />
+        Felix Effenberg
+      </p>
 
-    <h5>Cookies</h5>
-    <p>
-      Unsere Website verwendet so genannte Cookies. Dabei handelt es sich um kleine Textdateien, die
-      mit Hilfe des Browsers auf Ihrem Endgerät abgelegt werden. Sie richten keinen Schaden an. Wir
-      nutzen Cookies dazu, unser Angebot nutzerfreundlich zu gestalten. Einige Cookies bleiben auf
-      Ihrem Endgerät gespeichert, bis Sie diese löschen. Sie ermöglichen es uns, Ihren Browser beim
-      nächsten Besuch wiederzuerkennen. Wenn Sie dies nicht wünschen, können Sie Ihren Browser so
-      einrichten, dass er Sie über das Setzen von Cookies informiert und Sie dies nur im Einzelfall
-      erlauben. Bei der Deaktivierung von Cookies kann die Funktionalität unserer Website
-      eingeschränkt sein.
-    </p>
+      <p>
+        <strong>Mitglied der:</strong><br />
+        Wirtschaftskammer Wien
+      </p>
 
-    <h5>Ihre Rechte als Betroffener</h5>
-    <p>
-      Sie als Betroffener haben bezüglich Ihrer Daten, welche bei uns gespeichert sind, grundsätzlich
-      ein Recht auf:
-    </p>
+      <p>
+        <strong>Aufsichtsbehörde:</strong><br />
+        Magistratisches Bezirksamt des 4. Gemeindebezirk Wiens
+      </p>
 
-    <ul>
-      <li>Auskunft</li>
-      <li>Löschung der Daten</li>
-      <li>Berichtigung der Daten</li>
-      <li>Übertragbarkeit der Daten</li>
-      <li>Wiederruf und Widerspruch zur Datenverarbeitung</li>
-      <li>Einschränkung</li>
-    </ul>
+      <h5>Anwendbare Rechtsvorschriften</h5>
+      <p>Gewerbeordnung: <a href="https://www.ris.bka.gv.at">www.ris.bka.gv.at</a></p>
 
-    <p>
-      Wenn Sie vermuten, dass im Zuge der Verarbeitung Ihrer Daten Verstöße gegen das
-      Datenschutzrecht passiert sind, haben Sie die Möglichkeit, sich bei uns
-      (e12123434@student.tuwien.ac.at) oder der Datenschutzbehörde zu beschweren.
-    </p>
+      <h5>Medieninhaber und Herausgeber</h5>
+      <p>
+        <strong>Scanterior GmbH</strong><br />
+        Karlsplatz 13, Stiege 4, Tür 8<br />
+        1040 Wien<br />
+        Österreich
+      </p>
 
-    <h5>Sie erreichen uns unter folgenden Kontaktdaten:</h5>
-    <p>
-      <b>Webseitenbetreiber:</b> Felix Effenberg<br />
-      <b>Telefonnummer:</b> +43 664 8711234<br />
-      <b>E-Mail:</b> e12123434@student.tuwien.ac.at
-    </p>
+      <h5>Online-Streitbeilegung</h5>
+      <p>
+        <a href="https://ec.europa.eu/consumers/odr">https://ec.europa.eu/consumers/odr</a>
+      </p>
 
-    <h5>Datenschutzbeauftragter</h5>
-    <p>
-      Unseren Datenschutzbeauftragten erreichen Sie unter:<br />
-      <b>Name: Felix Effenberg</b><br />
-      <b>E-Mail:</b> e12123434@student.tuwien.ac.at<br />
-      <b>Telefon:</b> +43 664 8711234
-    </p>
+      <p>
+        Verbraucher haben die Möglichkeit, Beschwerden an die oben genannte
+        Online-Streitbeilegungsplattform zu richten.
+      </p>
 
     </div>
   </div>

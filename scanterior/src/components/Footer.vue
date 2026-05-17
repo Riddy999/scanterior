@@ -3,10 +3,11 @@
     <div class="container">
     
       <nav class="nav" aria-label="Main navigation">
-        <a href="#datenschutz">Datenschutz</a>
         <a href="#pricing">Lizenz</a>
-        <a href="#docs">Impressum</a>
         <a href="#about">Kontakt</a>
+        <a href="#about">Barrierefreiheit</a>
+        <RouterLink to="/datenschutz">Datenschutz</RouterLink>
+        <RouterLink to="/impressum">Impressum</RouterLink>
       </nav>
 
     </div>

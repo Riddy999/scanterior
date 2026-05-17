@@ -1,12 +1,12 @@
 <template>
   <header class="site-header">
     <div class="container">
-      <a class="brand" href="#">
+      <RouterLink class="brand" to="/">
         <img class="logo" :src="logoSvg" alt="Scanterior Logo" />
         <div>
           <span class="title">Scanterior</span>
         </div>  
-      </a>
+      </RouterLink>
 
       <nav class="nav" aria-label="Main navigation">
         <a href="#features">Features</a>
